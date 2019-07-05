@@ -37,7 +37,11 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
+<<<<<<< HEAD
 VIRTUAL_ENV="/home/gaston/desarrollo/djangogirls/myenv"
+=======
+VIRTUAL_ENV="/home/gaston/Documentos/djangogirls/myenv"
+>>>>>>> Cambie el HTML para la página
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

@@ -29,7 +29,11 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
+<<<<<<< HEAD
 set -gx VIRTUAL_ENV "/home/gaston/desarrollo/djangogirls/myenv"
+=======
+set -gx VIRTUAL_ENV "/home/gaston/Documentos/djangogirls/myenv"
+>>>>>>> Cambie el HTML para la página
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

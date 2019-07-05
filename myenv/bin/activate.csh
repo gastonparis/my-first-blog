@@ -8,7 +8,11 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
+<<<<<<< HEAD
 setenv VIRTUAL_ENV "/home/gaston/desarrollo/djangogirls/myenv"
+=======
+setenv VIRTUAL_ENV "/home/gaston/Documentos/djangogirls/myenv"
+>>>>>>> Cambie el HTML para la página
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/bin:$PATH"
